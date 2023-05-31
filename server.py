@@ -1,9 +1,3 @@
-'''
-store all file to play in the "resource" sub directory where the server file exists
-run using command in linux : "python3 server.py"
-the audio should be of .wav format with 44100 Hz frequency
-'''
-
 import socket
 import wave
 import os

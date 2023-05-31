@@ -1,11 +1,3 @@
-'''
-Change the ip address to the one on which server file is running
-run using command in linux : "python3 client.py"
-
-enter sample to run the sample audio
-
-'''
-
 import socket
 import pyaudio
 import logging
